@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub By Anibe Abdullahi
+# :wave: The Basics of GitHub By Anibe Abdullahi Leolin
 
 ## 🤓 Course overview and learning outcomes 
 
